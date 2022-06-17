@@ -1,0 +1,83 @@
+.form__title {
+    font-family: 'Playfair Display';
+    font-weight: 700;
+    font-size: 36px;
+    color: #D4C17F;
+}
+
+.form__description {
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 50px;
+
+}
+
+.form__input {
+    background: #FFFFFF;
+    opacity: 0.2;
+    border: none;
+    width: 255px;
+    height: 50px;
+    left: 975px;
+    top: 2311px;
+    text-align: center;
+    margin-left: 20px;
+    margin-bottom: 26px;
+}
+
+.form__warning {
+    font-family: 'Raleway';
+width: 255px;
+    height: 28px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    display: inline-block;
+margin-left: 20px;
+    text-align: center;
+
+    color: #E7E7E7;
+}
+
+.form__btn {
+    width: 259px;
+    height: 50px;
+    background: #D4C17F;
+    border: none;
+    font-family: 'Raleway';
+margin-left: 24px;
+    font-weight: 700;
+    font-size: 16px;
+
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.form__content {
+    display: flex;
+    
+}
+
+.form__left {
+    max-width: 540px;
+    flex-flow: column;
+    
+}
+
+.form__right {
+    max-width: 600px;
+    margin-top: 70px;
+    
+    
+}
+
+.form {
+    background: url(../Img/form_bg.png);
+    padding: 150px;
+    background-size: cover;
+}
+

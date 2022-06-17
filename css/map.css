@@ -1,0 +1,23 @@
+.map__content {
+    display: flex;
+    justify-content: center;
+}
+
+.map__bishkeke {
+    width: 1110px;
+    height: 358px;
+}
+
+.map__title {
+    font-family: 'Playfair Display';
+
+    font-weight: 700;
+    font-size: 36px;
+
+margin-bottom: 90px;
+    color: #D4C17F;
+}
+
+.map {
+    margin-top: 160px;
+}

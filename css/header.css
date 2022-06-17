@@ -1,0 +1,31 @@
+
+
+
+.content {
+display: flex;
+    justify-content: space-between; 
+    align-items: center;
+}
+
+.list {
+    display: flex;    
+    list-style: none;
+    font-family: "Raleway";
+    align-items: center;
+    color: white;
+}
+
+header {
+      
+    background: #242B33;
+    position: absolute;
+    width: 100%;
+    top: 10px;
+    
+}
+
+
+li {
+    margin-left: 40px;
+    
+}

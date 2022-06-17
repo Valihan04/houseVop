@@ -1,0 +1,83 @@
+.hero__content {
+    width: 100%;
+    max-width: 556px;
+    margin: 0 auto;
+  }
+  
+  .info {
+      display: flex;
+      
+      
+     
+  }
+  
+  .hero {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      background: linear-gradient(180deg, #242B33 11.98%, rgba(45, 52, 60, 0.38) 51.04%, #242B33 92.19%), url(https://static.wixstatic.com/media/089694_ac5fa31289664871a7d72f5327c1548a~mv2.jpg/v1/fill/w_600,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/photo-1493246318656-5bfd4cfb29b8.jpg) center no-repeat;
+      max-width: 100%;
+      height: 100vh;
+      -webkit-background-size: cover;
+      block-size: cover;
+  }
+  
+  .hero__title {
+      font-style: normal;
+      font-weight: 700;
+      font-size: 30px;
+      height: 200px;
+      text-transform: uppercase;
+      text-align: center;
+      line-height: 1;
+      color: #D4C17F;
+      font-family:  'Playfair Display';
+      position: relative;
+      top: 20px;
+  }
+  
+  .mause {
+      content: "";
+      display: block;
+      width: 40px;
+      height: 100px;
+      margin: -20px auto 0;
+      align-items: center;
+  
+  }
+  
+  .bottom {
+      display: flex;
+      justify-content: space-evenly;
+      font-family: "Raleway";
+      color: white;
+      position: relative;
+      top: 100px;
+  
+      
+  }
+  
+  .hero1 {
+      background: #242B33;
+      padding: 60px;
+  
+  }
+  
+  .hero1__content {
+      display: flex;
+      width: 130px;
+      height: 130px;
+      margin-left: 24%;
+  
+  }
+  
+  .rim1 {
+      position: absolute;
+  width: 201px;
+  height: 207px;
+      margin-left: 63%;
+      margin-top: -50px;
+  }
+  
+
+  

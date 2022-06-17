@@ -1,0 +1,11 @@
+@media screen and (max-width :804px) {
+    .room__content {
+        justify-content: center;
+    }
+    .room__title {
+        margin-left: 270px
+    }
+    .hero1__content {
+        justify-content: center;
+    }
+}

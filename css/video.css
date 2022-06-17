@@ -1,0 +1,9 @@
+.video__player {
+    width: 719px;
+    height: 650px;
+}
+
+.video__content {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,56 @@
+.qwerty__title {
+    font-family: 'Playfair Display';
+
+    font-weight: 700;
+    font-size: 36px;
+
+
+    color: #D4C17F;
+}
+
+.qwerty__description {
+    font-family: 'Raleway';
+    text-align: center;
+    font-weight: 400;
+    font-size: 13px;
+margin-top: 61px;
+
+
+
+    color: #E7E7E7;
+}
+
+.qwerty__input {
+    width: 255px;
+    height: 50px;
+    text-align: center;
+    border: none;
+    background: #FFFFFF;
+    opacity: 0.2;
+    margin-left: 20px;
+}
+
+.qwerty__btn {
+    width: 255px;
+    height: 50px;
+    border: none;
+margin-left: 20px;
+    background: #D4C17F;
+}
+
+.qwerty {
+    margin-top: 140px;
+}
+
+.qwerty__content {
+    display: flex;
+}
+
+.qwerty__right {
+    display: flex;
+    margin-top: 120px;
+}
+
+.qwerty__left {
+    margin-top: 20px;
+}
